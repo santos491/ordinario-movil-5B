@@ -1,0 +1,33 @@
+{
+	"items": [
+		{
+			"id": "1",
+			"name": "Izamal, Yucatán",
+			"description": "Testimonio de tres culturas: un encanto colonial con el sello distintivo de un pueblo pequeño, con muestras de la cultura maya y un gran convento de influencia española. Todas las casas, las tiendas y las iglesias de este lugar están pintadas de amarillo dorado y al pueblo se le conoce como La Ciudad Amarilla",
+			"image": "assets/images/face1.jpg",
+			"direction": "Izamal se localiza a 72 km al oriente de la ciudad de Mérida."
+		},
+		{
+			"id": "2",
+			"name": "Sisal, Yucatán",
+			"description": "El puerto de Sisal fue uno de los más importantes en la época de la colonia, la comercialización de las fibras de henequén, algodón, tabaco hacia el viejo continente, lo constituía como un punto de encuentro de diversas culturas. Se ubica dentro de la Reserva Estatal El Palmar.",
+			"image": "black-watch.jpg",
+			"direction": "Se localiza a 63 km de Mérida y a 40 km por mar del puerto de Progreso o a 96 km por carretera "
+		},
+		{
+			"id": "3",
+			"name": "Valladolid, Yucatán",
+			"description": "Una de las ciudades más antiguas de la península. Sus calles albergan recintos históricos, casonas, museos, cómodos hotelitos, mercados, fuentes, hermosas tiendas de artesanías, puestos de helados y antojitos, parques y muchos rincones por explorar.",
+			"image": "blue-band.jpg",
+			"direction": "Valladolid se localiza a 160 km. al oriente de la ciudad de Mérida. Asentada en el oriente de Yucatán"
+		},
+		{
+			"id": "4",
+			"name": "Maní, Yucatán",
+			"description": "Es una tierra mágica que remonta los inicios de su nombre a la lengua maya “Lugar donde todo pasó” o “Manik” día del calendario maya relacionado con el venado. Aunque no hay datos históricos exactos del inicio de la ocupación de dicha región por los mayas, gracias a la evidencia arqueológica en el cenote Xcabachen",
+			"image": "blue-t-shirt.jpg",
+			"direction": "Se encuentra aproximadamente a 90 kms de la Ciudad de Mérida, colinda al norte con el municipio de Mama al sur con Akil, al este con Teabo y al oeste con Dzán"
+		}
+		
+	]
+}
